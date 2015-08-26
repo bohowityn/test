@@ -1,0 +1,4 @@
+to jest pierwszy plik
+a to druga linia
+
+a to czwarta
