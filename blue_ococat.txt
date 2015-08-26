@@ -1,0 +1,6 @@
+to jest plik dla blue ocoto cat
+a to jest 2 linia
+3 linia
+4 linia
+5 linia
+6 linia
